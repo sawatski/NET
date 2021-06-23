@@ -1,5 +1,5 @@
 ﻿using System;
-
+//creating exceptions
 namespace Labs
 {
     class Program
